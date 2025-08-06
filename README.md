@@ -4,4 +4,4 @@
 I recently graduated from SIM - UOW Cyber Security, and am a very passionate person when it comes to technology and video games.
 
 ## Projects
-|<a href="https://github.com/xXerii/CleanConnect">CleanConnect</a> - A website in the style Shopee but for freelance cleaners.
+<a href="https://github.com/xXerii/CleanConnect">CleanConnect</a> - A website in the style Shopee but for freelance cleaners.
