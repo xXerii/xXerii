@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Project Name                                  |
 |-----------------------------------------------|
-
+|<a href=["https://google.com"](https://github.com/xXerii/CleanConnect)>Detection Lab</a> |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
