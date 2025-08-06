@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Project Name                                  |
-|-----------------------------------------------|------------------|
+|-----------------------------------------------|
 |<a href="https://github.com/xXerii/CleanConnect">CleanConnect</a> - A website in the style Shopee but for freelance cleaners.
 
 ## Tools
