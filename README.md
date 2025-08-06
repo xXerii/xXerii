@@ -3,14 +3,7 @@
 
 I recently graduated from SIM - UOW Cyber Security, and am a very passionate person when it comes to technology and video games.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
 ## Projects
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 | Project Name                                  |
 |-----------------------------------------------|
 |<a href="https://github.com/xXerii/CleanConnect">CleanConnect</a> - A website in the style Shopee but for freelance cleaners.
