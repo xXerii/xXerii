@@ -11,8 +11,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Project Name                                                               |
-|-----------------------------------------------|----------------------------|
+| Project Name                                  |
+|-----------------------------------------------|
 
 
 ## Tools
