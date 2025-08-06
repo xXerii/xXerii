@@ -11,9 +11,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Project Name                                  | Skills Used      |
+| Project Name                                  |
 |-----------------------------------------------|------------------|
-|<a href="https://github.com/xXerii/CleanConnect">CleanConnect</a> | Test Skill |
+|<a href="https://github.com/xXerii/CleanConnect">CleanConnect</a> - A website in the style Shopee but for freelance cleaners.
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
